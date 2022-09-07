@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856501004849",
+    "project_id": "crudfirestore-7e282",
+    "storage_bucket": "crudfirestore-7e282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856501004849:android:9aa39e05ca8c73f499c310",
+        "android_client_info": {
+          "package_name": "com.gamecrawl.crudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856501004849-e4fkdd3n3uer8vkr88ms014aksuf8ehr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgtqHxyls2HyZcVOpaMv5161zwINqmlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856501004849-e4fkdd3n3uer8vkr88ms014aksuf8ehr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
